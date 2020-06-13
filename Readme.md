@@ -1,5 +1,7 @@
 # Git training
 
+# Topics
+
 ## Console steps
 
 ```bash
